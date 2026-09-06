@@ -1,0 +1,8 @@
+# My project brief
+## The question
+what areas of low elevation within Ibadan North Local Government are located within 200m of mapped surface water features 
+## The data I need
+-Elevation- Copernius DEM 30 m- https://portal.opentopography.org
+-Ward boundaries-GRID3 - https://grid3.org - GeoPackage - 12 MB
+-Water features - OSM via QuickOSM - extracted for Ibadan North
+-Land/settlement extents https://grid3.org - GeoPackage - 40 MB
