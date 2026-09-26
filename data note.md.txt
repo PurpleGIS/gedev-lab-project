@@ -1,0 +1,15 @@
+# Data notes
+## GRID3 Nigeria operational wards v 3.0
+Source: https://data.grid3.org
+Download: Sep 23, 2026
+5,872 features, polygons
+Columns: wardname (agbowo), Lga_name (ibadan north), state (oyo)
+No nulls in ward name
+Covers my LGA fully
+
+#OSM roads, extracted via Quick OSM
+Query: highway= within Ibadan North extent
+Extracted: Sep 24, 2026
+2927 features, lines
+Many have be separated no surface tag, so paved and unpaved cannot be separated everywhere
+coverage looks good in the builtup area, sparse at the edge
