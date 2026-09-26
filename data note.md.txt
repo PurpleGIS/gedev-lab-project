@@ -6,6 +6,11 @@ Download: Sep 23, 2026
 Columns: wardname (agbowo), Lga_name (ibadan north), state (oyo)
 No nulls in ward name
 Covers my LGA fully
+completeness: good, covers the ward and local government I am interested in
+currency: most edits 2015-2025
+positional: no offsite visible as polygons aligns with satellite imagery
+attribute: ward names and alternative names are mostly the same. area in square kilometers is however not available for most areas.
+fitness: data support supports proximity analysis to water feature
 
 #OSM roads, extracted via Quick OSM
 Query: highway= within Ibadan North extent
@@ -13,3 +18,15 @@ Extracted: Sep 24, 2026
 2927 features, lines
 Many have be separated no surface tag, so paved and unpaved cannot be separated everywhere
 coverage looks good in the builtup area, sparse at the edge
+completeness: good in built-up area
+currency: most edits 2015-2025
+positional: roads align well with satellite imagery, no systematic offsite visible
+attribute: about 20% has a surface tag, so paved and unpaved cannot be easily separated.
+fitness: good for access analysis in the built-up area. not suitable for paved-road question
+
+##CRS and preparation
+All source areas arrived in EPSG: 4326
+Study area: Ibadan North, extracted from GRID3 wards
+All layers clipped to study area, then projected to EPSG: 32631 (UTM 31N)
+Area check: Ibadan North 27km2, matches published figure
+Working files in data/processed/, raw files untouched
