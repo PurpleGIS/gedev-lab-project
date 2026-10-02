@@ -1,0 +1,17 @@
+# My one-month summary
+
+## The question
+
+What areas of low elevation within Ibadan North Local Government are located within 200m of mapped surface water features?
+
+# #Operation deployed: Buffered GRID3 water features by 200m, dissolved, then took the difference against ward boundaries
+
+# #Expectation and Result: I only knew of two water features in the study area, but the data revealed the others
+
+# # What surprised me
+
+Areas with water features became more rounded
+
+Data still needed
+
+elevation data for the study area
