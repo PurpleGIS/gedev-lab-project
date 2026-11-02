@@ -4,3 +4,6 @@ Built over twelve month with Geo Dev Africa, Cohort one.
 See Project-brief.md for the full brief.
 
 ![my ibadan north geodev project](https://github.com/PurpleGIS/gedev-lab-project/blob/main/my%20ibadan%20north%20geodev%20project.png)
+
+## MONTH 2: DEVELOPMENT, ENVIRONMENT AND EARLY PYTHON
+-Week 5: Set up Python, VS Code and the terminal. hello.py runs
