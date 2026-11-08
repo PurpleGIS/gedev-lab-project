@@ -7,4 +7,5 @@ See Project-brief.md for the full brief.
 
 ## MONTH 2: DEVELOPMENT, ENVIRONMENT AND EARLY PYTHON
 -Week 5: Set up Python, VS Code and the terminal. hello.py runs
+
 -Week 6: Environments and Project Setup with uv
