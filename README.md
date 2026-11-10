@@ -9,3 +9,5 @@ See Project-brief.md for the full brief.
 -Week 5: Set up Python, VS Code and the terminal. hello.py runs
 
 -Week 6: Environments and Project Setup with uv
+
+-Week 7: Python, the six ideas. analyse.py runs
