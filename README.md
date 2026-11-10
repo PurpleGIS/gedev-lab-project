@@ -11,3 +11,5 @@ See Project-brief.md for the full brief.
 -Week 6: Environments and Project Setup with uv
 
 -Week 7: Python, the six ideas. analyse.py runs
+
+-Week 8: Inspect_data.py summarizes low elevation areas in Ibadan North
