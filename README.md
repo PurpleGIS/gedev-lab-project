@@ -18,5 +18,3 @@ See Project-brief.md for the full brief.
 
 ### Month 2 reflection: refactoring helps to reduce codes into manageable structure that is easy to work it without affecting the output. inputting the wrong data in csv file might affect the output of the terminal if the written code does not address it
 
-## MONTH 3: GEOSPATIAL PYTHON AND AUTOMATION
-
