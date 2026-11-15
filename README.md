@@ -13,3 +13,10 @@ See Project-brief.md for the full brief.
 -Week 7: Python, the six ideas. analyse.py runs
 
 -Week 8: Inspect_data.py summarizes low elevation areas in Ibadan North
+
+-Week 9:  refactor function works summary.py runs
+
+### Month 2 reflection: refactoring helps to reduce codes into manageable structure that is easy to work it without affecting the output. inputting the wrong data in csv file might affect the output of the terminal if the written code does not address it
+
+## MONTH 3: GEOSPATIAL PYTHON AND AUTOMATION
+
